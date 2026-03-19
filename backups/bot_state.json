@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1773907003,
+  "generated_at": 1773907048,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -10,9 +10,26 @@
         "added_at": 1773906276
       }
     ],
-    "drafts": [],
+    "drafts": [
+      {
+        "id": "2EF2E484",
+        "owner_id": 8535385246,
+        "title": "Hi মিশরীয়",
+        "question_time": 10,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1773907043,
+        "updated_at": 1773907043
+      }
+    ],
     "draft_questions": [],
-    "active_drafts": [],
+    "active_drafts": [
+      {
+        "user_id": 8535385246,
+        "draft_id": "2EF2E484",
+        "updated_at": 1773907043
+      }
+    ],
     "group_bindings": [],
     "user_visuals": [
       {
