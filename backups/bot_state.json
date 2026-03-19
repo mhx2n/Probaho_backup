@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1773944809,
+  "generated_at": 1773944864,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -22,7 +22,7 @@
         "user_id": 7487861081,
         "chat_id": -1003794141252,
         "granted_by": 7487861081,
-        "granted_at": 1773944283
+        "granted_at": 1773944859
       }
     ],
     "drafts": [
@@ -386,7 +386,14 @@
         "updated_at": 1773931609
       }
     ],
-    "group_bindings": [],
+    "group_bindings": [
+      {
+        "chat_id": -1003794141252,
+        "draft_id": "1AF44BEC",
+        "created_by": 7487861081,
+        "updated_at": 1773944859
+      }
+    ],
     "user_visuals": [
       {
         "user_id": 8389621809,
