@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1773945125,
+  "generated_at": 1773945159,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -72,9 +72,9 @@
         "title": "Hi",
         "question_time": 10,
         "negative_mark": 1.45,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1773945120,
-        "updated_at": 1773945120
+        "updated_at": 1773945154
       }
     ],
     "draft_questions": [
@@ -377,6 +377,86 @@
         "correct_option": 3,
         "explanation": "x = r cosθ = √3·cos(π/3) = √3·1/2 = √3/2, y = r sinθ = √3·sin(π/3) = √3·√3/2 = 3/2 ⇒ (√3/2, 3/2) ✅\n\n🔗 {.....}",
         "src": "forwarded_quiz"
+      },
+      {
+        "id": 51,
+        "draft_id": "9FBED09F",
+        "q_no": 1,
+        "question": "[1/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​x - 3y - 2 = 0 রেখার উপর অবস্থিত P বিন্দুটি (2, 3) এবং (6, -5) থেকে সমদূরত্বী হলে P বিন্দুর স্থানাংক কত?",
+        "options": "[\"4,14\", \"-10,4\", \"14,4\", \"4,-10\"]",
+        "correct_option": 2,
+        "explanation": "মিডপয়েন্ট M=(4,−1), AB-এর ঢাল = −2 ⇒ perp. bisector: x−2y−6=0; এতে এবং x−3y−2=0 একত্রে সমাধান করলে y=4, x=14 ⇒ P=(14,4)\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 52,
+        "draft_id": "9FBED09F",
+        "q_no": 2,
+        "question": "[2/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​x-অক্ষ এবং (-5, -7) থেকে (4, k) বিন্দুর দূরত্ব সমান হলে k-এর মান কোনটি?",
+        "options": "[\"7/65\", \"-65/70\", \"65/7\", \"-65/7\"]",
+        "correct_option": 3,
+        "explanation": "|k| = √((4+5)^2 + (k+7)^2) = √(81 + (k+7)^2) ⇒ কণা করে: k^2 = (k+7)^2 + 81 ⇒ 14k + 130 = 0 ⇒ k = -130/14 = -65/7 ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 53,
+        "draft_id": "9FBED09F",
+        "q_no": 3,
+        "question": "[3/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​দুটি বিন্দুর পোলার স্থানাঙ্ক (2√3, 90°) এবং (2√5, 180°) হলে, বিন্দু দুটির দুরত্ব কত?",
+        "options": "[\"4√3\", \"4√2\", \"4√5\", \"2√3\"]",
+        "correct_option": 1,
+        "explanation": "r1=2√3, r2=2√5, θ1−θ2=90°−180°=−90° ⇒ cos(θ1−θ2)=0 ⇒ distance=√((2√3)^2+(2√5)^2)=√(12+20)=4√2 ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 54,
+        "draft_id": "9FBED09F",
+        "q_no": 4,
+        "question": "[4/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​দুটি বিন্দুর পোলার স্থানাঙ্ক (2√3, 90°) এবং (2√5, 180°) হলে, বিন্দু দুটির দুরত্ব কত?",
+        "options": "[\"4√3\", \"4√2\", \"4√5\", \"2√3\"]",
+        "correct_option": 1,
+        "explanation": "r1=2√3, r2=2√5, θ1−θ2=90°−180°=−90° ⇒ cos(θ1−θ2)=0 ⇒ distance=√((2√3)^2+(2√5)^2)=√(12+20)=4√2 ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 55,
+        "draft_id": "9FBED09F",
+        "q_no": 5,
+        "question": "[5/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​দুটি বিন্দুর পোলার স্থানাঙ্ক (2√3, 90°) এবং (2√5, 180°) হলে, বিন্দু দুটির দুরত্ব কত?",
+        "options": "[\"4√3\", \"4√2\", \"4√5\", \"2√3\"]",
+        "correct_option": 1,
+        "explanation": "r1=2√3, r2=2√5, θ1−θ2=90°−180°=−90° ⇒ cos(θ1−θ2)=0 ⇒ distance=√((2√3)^2+(2√5)^2)=√(12+20)=4√2 ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 56,
+        "draft_id": "9FBED09F",
+        "q_no": 6,
+        "question": "[6/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​বিন্দুর কার্তেসীয় স্থানাঙ্ক (0, −2) হলে, বিন্দুর পোলার স্থানাঙ্ক কত?",
+        "options": "[\"(2, 70°)\", \"(2, 170°)\", \"(1, 270°)\", \"(2, 270°)\"]",
+        "correct_option": 3,
+        "explanation": "r = √(0² + (−2)²) = 2, θ = 270° ⇒ (r, θ) = (2, 270°) ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 57,
+        "draft_id": "9FBED09F",
+        "q_no": 7,
+        "question": "[7/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​r(1+cosθ)=2 এর কার্তেসীয় সমীকরণ কোনটি?",
+        "options": "[\"x^2 + y^2 + x - 2 = 0\", \"y^2 - 4x = 4\", \"x^2 + 4x = 2\", \"y^2 + 4x = 4\"]",
+        "correct_option": 3,
+        "explanation": "r(1+cosθ)=2 ⇒ r + r cosθ = 2 ⇒ r = 2 − x ⇒ r^2 = (2 − x)^2 ⇒ x^2 + y^2 = 4 − 4x + x^2 ⇒ y^2 + 4x = 4 ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 58,
+        "draft_id": "9FBED09F",
+        "q_no": 8,
+        "question": "[8/8] [New GST model টেস্ট]\n[TEST ⁉️]\n​(√3, π/3) বিন্দুটির কার্তেসীয় স্থানাংক কত হবে?",
+        "options": "[\"(3, √3)\", \"(2, √2)\", \"(2/3, 2/√3)\", \"(√3/2, 3/2)\"]",
+        "correct_option": 3,
+        "explanation": "x = r cosθ = √3·cos(π/3) = √3·1/2 = √3/2, y = r sinθ = √3·sin(π/3) = √3·√3/2 = 3/2 ⇒ (√3/2, 3/2) ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
@@ -465,6 +545,14 @@
         "created_by": 7487861081,
         "enabled": 1,
         "created_at": 1773944696
+      },
+      {
+        "draft_id": "9FBED09F",
+        "token": "2914227761F978C5",
+        "max_attempts": 3,
+        "created_by": 7487861081,
+        "enabled": 1,
+        "created_at": 1773945153
       }
     ],
     "practice_attempts": [
