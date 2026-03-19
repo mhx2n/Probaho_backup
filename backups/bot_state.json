@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "generated_at": 1773936982,
+  "generated_at": 1773944053,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
+      {
+        "user_id": 7487861081,
+        "added_by": 8535385246,
+        "added_at": 1773944048,
+        "access_level": "isolated"
+      },
       {
         "user_id": 8389621809,
         "added_by": 8535385246,
