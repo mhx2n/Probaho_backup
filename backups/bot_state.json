@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1773906783,
+  "generated_at": 1773906936,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -10,135 +10,10 @@
         "added_at": 1773906276
       }
     ],
-    "drafts": [
-      {
-        "id": "5F8AFBB9",
-        "owner_id": 8535385246,
-        "title": "Himself and his wife 😭",
-        "question_time": 10,
-        "negative_mark": 0.25,
-        "status": "ready",
-        "created_at": 1773906645,
-        "updated_at": 1773906690
-      }
-    ],
-    "draft_questions": [
-      {
-        "id": 1,
-        "draft_id": "5F8AFBB9",
-        "q_no": 1,
-        "question": "[Polls : Admission Stuffs]\n\nকোন শব্দ তীব্রতায় কানে শ্রুতি যন্ত্রণা শুরু হয়? [MAT 24-26]",
-        "options": "[\"১৮০ ডেসিবেল\", \"১২০ ডেসিবেল\", \"৮০ ডেসিবেল\", \"১৫০ ডেসিবেল\"]",
-        "correct_option": 1,
-        "explanation": "[Join : @Admission_Stuffs]",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 2,
-        "draft_id": "5F8AFBB9",
-        "q_no": 2,
-        "question": "[Polls : Admission Stuffs]\n\nগাজায় সাম্প্রতিক কালের সংঘর্ষ কবে শুরু হয়? [MAT 24-26]",
-        "options": "[\"ডিসেম্বর ২০২৩\", \"অক্টোবর ২০২৩\", \"সেপ্টেম্বর ২০২৩\", \"নভেম্বর ২০২৩\"]",
-        "correct_option": 1,
-        "explanation": "[Join : @Admission_Stuffs]",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 3,
-        "draft_id": "5F8AFBB9",
-        "q_no": 3,
-        "question": "[Polls : Admission Stuffs]\n\nবর্জ্য রিসাইক্লিং থেকে প্রধান কী সুফল পাওয়া যায়? [MAT 24-26]",
-        "options": "[\"দূষণ হ্রাস পায়\", \"বিদ্যুৎ খরচ কমে\", \"কাঁচামালের ব্যবহার বাড়ে\", \"পণ্য উৎপাদন খরচ কমে\"]",
-        "correct_option": 0,
-        "explanation": "[Join : @Admission_Stuffs]",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 4,
-        "draft_id": "5F8AFBB9",
-        "q_no": 4,
-        "question": "[Polls : Admission Stuffs]\n\nনিচের কোন মূলকটি বেনজিন বলয়ে অর্থো-প্যারা নির্দেশক? [MAT 24-26]",
-        "options": "[\"-CH3\", \"-NO2\", \"-CHO\", \"-CN\"]",
-        "correct_option": 0,
-        "explanation": "[Join : @Admission_Stuffs]",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 5,
-        "draft_id": "5F8AFBB9",
-        "q_no": 5,
-        "question": "[Polls : Admission Stuffs]\n\nফুসফুসের আবরণকে কী বলে? [MAT 24-26]",
-        "options": "[\"গ্লিসন ক্যাপসুল\", \"পেরিকার্ডিয়াম\", \"ডায়াফ্রাম\", \"প্লিওরা\"]",
-        "correct_option": 3,
-        "explanation": "[Join : @Admission_Stuffs]",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 6,
-        "draft_id": "5F8AFBB9",
-        "q_no": 6,
-        "question": "🩺জীববিজ্ঞান চর্চা🧬\nমালভেসি গোত্রের পরাগরেণুর বৈশিষ্ট্য কোনটি?",
-        "options": "[\"গোলাকৃতির\", \"বৃক্কাকার\", \"কণ্টকিত\", \"বিষমাকৃতির\"]",
-        "correct_option": 2,
-        "explanation": "ব্যাখ্যা: মালভেসি গোত্রের পরাগরেণু বৃহৎ এবং কণ্টকিত (Spiny)। (পরাগধানী বৃক্কাকার হয়)।",
-        "src": "csv:2"
-      },
-      {
-        "id": 7,
-        "draft_id": "5F8AFBB9",
-        "q_no": 7,
-        "question": "🩺জীববিজ্ঞান চর্চা🧬\nনিচের কোনটি আবৃতবীজী উদ্ভিদ সম্পর্কে সঠিক?",
-        "options": "[\"ফ্লোয়েম সঙ্গীকোষবিহীন\", \"সস্য নিষেকের পূর্বে সৃষ্টি হয়\", \"আর্কিগোনিয়া সৃষ্টি হয়\", \"সুগঠিত ভেসেল যুক্ত\"]",
-        "correct_option": 3,
-        "explanation": "ব্যাখ্যা: আবৃতবীজী উদ্ভিদের জাইলেম টিস্যুতে সুগঠিত ভেসেল কোষ থাকে এবং ফ্লোয়েমে সঙ্গীকোষ থাকে। বাকি বৈশিষ্ট্যগুলো নগ্নবীজী উদ্ভিদের।",
-        "src": "csv:3"
-      },
-      {
-        "id": 8,
-        "draft_id": "5F8AFBB9",
-        "q_no": 8,
-        "question": "🩺জীববিজ্ঞান চর্চা🧬\nক্যারিঅপসিস ফলের বৈশিষ্ট্য-",
-        "options": "[\"এক প্রকোষ্ঠ\", \"ফলত্বক ও বীজ অসংলগ্ন\", \"দ্বিবীজী\", \"Malvacae গোত্রের ফল\"]",
-        "correct_option": 0,
-        "explanation": "ব্যাখ্যা: ক্যারিঅপসিস (যেমন- ধান, গম) হলো এক প্রকোষ্ঠবিশিষ্ট এবং একটিমাত্র বীজযুক্ত ফল, যেখানে ফলত্বক ও বীজত্বক সংলগ্ন থাকে।",
-        "src": "csv:4"
-      },
-      {
-        "id": 9,
-        "draft_id": "5F8AFBB9",
-        "q_no": 9,
-        "question": "🩺জীববিজ্ঞান চর্চা🧬\nধানের পুষ্পপুটে টেপাল সংখ্যা-",
-        "options": "[\"২\", \"৪\", \"৩\", \"৬\"]",
-        "correct_option": 0,
-        "explanation": "ব্যাখ্যা: ধানের পুষ্পপুট বা লডিকিউল (Lodicule) এর সংখ্যা সাধারণত ২টি।",
-        "src": "csv:5"
-      },
-      {
-        "id": 10,
-        "draft_id": "5F8AFBB9",
-        "q_no": 10,
-        "question": "🩺জীববিজ্ঞান চর্চা🧬\nলিগুম হলো-",
-        "options": "[\"ফল\", \"গর্ভাশয়ের প্রকৃতি\", \"পাতা\", \"অমরাবিন্যাস\"]",
-        "correct_option": 0,
-        "explanation": "ব্যাখ্যা: লিগিউম (Legume) হলো একটি বিশেষ ধরনের ফল যা শিম বা লিগিউমিনোসি গোত্রের উদ্ভিদে দেখা যায়।",
-        "src": "csv:6"
-      }
-    ],
-    "active_drafts": [
-      {
-        "user_id": 8535385246,
-        "draft_id": "5F8AFBB9",
-        "updated_at": 1773906697
-      }
-    ],
-    "group_bindings": [
-      {
-        "chat_id": -1003839941882,
-        "draft_id": "5F8AFBB9",
-        "created_by": 8535385246,
-        "updated_at": 1773906778
-      }
-    ],
+    "drafts": [],
+    "draft_questions": [],
+    "active_drafts": [],
+    "group_bindings": [],
     "user_visuals": [
       {
         "user_id": 8535385246,
