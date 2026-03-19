@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1773944571,
+  "generated_at": 1773944702,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -62,9 +62,9 @@
         "title": "New GST model টেস্ট",
         "question_time": 10,
         "negative_mark": 1.25,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1773944566,
-        "updated_at": 1773944566
+        "updated_at": 1773944697
       }
     ],
     "draft_questions": [
@@ -287,6 +287,36 @@
         "correct_option": 1,
         "explanation": "",
         "src": "csv:6"
+      },
+      {
+        "id": 43,
+        "draft_id": "1AF44BEC",
+        "q_no": 1,
+        "question": "[TEST ⁉️]\n​x - 3y - 2 = 0 রেখার উপর অবস্থিত P বিন্দুটি (2, 3) এবং (6, -5) থেকে সমদূরত্বী হলে P বিন্দুর স্থানাংক কত?",
+        "options": "[\"4,14\", \"-10,4\", \"14,4\", \"4,-10\"]",
+        "correct_option": 2,
+        "explanation": "মিডপয়েন্ট M=(4,−1), AB-এর ঢাল = −2 ⇒ perp. bisector: x−2y−6=0; এতে এবং x−3y−2=0 একত্রে সমাধান করলে y=4, x=14 ⇒ P=(14,4)\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 44,
+        "draft_id": "1AF44BEC",
+        "q_no": 2,
+        "question": "[TEST ⁉️]\n​x-অক্ষ এবং (-5, -7) থেকে (4, k) বিন্দুর দূরত্ব সমান হলে k-এর মান কোনটি?",
+        "options": "[\"7/65\", \"-65/70\", \"65/7\", \"-65/7\"]",
+        "correct_option": 3,
+        "explanation": "|k| = √((4+5)^2 + (k+7)^2) = √(81 + (k+7)^2) ⇒ কণা করে: k^2 = (k+7)^2 + 81 ⇒ 14k + 130 = 0 ⇒ k = -130/14 = -65/7 ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 45,
+        "draft_id": "1AF44BEC",
+        "q_no": 3,
+        "question": "[TEST ⁉️]\n​দুটি বিন্দুর পোলার স্থানাঙ্ক (2√3, 90°) এবং (2√5, 180°) হলে, বিন্দু দুটির দুরত্ব কত?",
+        "options": "[\"4√3\", \"4√2\", \"4√5\", \"2√3\"]",
+        "correct_option": 1,
+        "explanation": "r1=2√3, r2=2√5, θ1−θ2=90°−180°=−90° ⇒ cos(θ1−θ2)=0 ⇒ distance=√((2√3)^2+(2√5)^2)=√(12+20)=4√2 ✅\n\n🔗 {.....}",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
@@ -367,6 +397,14 @@
         "created_by": 8389621809,
         "enabled": 1,
         "created_at": 1773936977
+      },
+      {
+        "draft_id": "1AF44BEC",
+        "token": "971601CF741FA2AF",
+        "max_attempts": 3,
+        "created_by": 7487861081,
+        "enabled": 1,
+        "created_at": 1773944696
       }
     ],
     "practice_attempts": [
