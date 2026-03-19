@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1773907263,
+  "generated_at": 1773907619,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -10,9 +10,26 @@
         "added_at": 1773906276
       }
     ],
-    "drafts": [],
+    "drafts": [
+      {
+        "id": "CB032820",
+        "owner_id": 8535385246,
+        "title": "ত",
+        "question_time": 20,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1773907614,
+        "updated_at": 1773907614
+      }
+    ],
     "draft_questions": [],
-    "active_drafts": [],
+    "active_drafts": [
+      {
+        "user_id": 8535385246,
+        "draft_id": "CB032820",
+        "updated_at": 1773907614
+      }
+    ],
     "group_bindings": [],
     "user_visuals": [
       {
