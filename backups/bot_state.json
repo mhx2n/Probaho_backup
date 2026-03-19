@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1773906650,
+  "generated_at": 1773906671,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -17,12 +17,63 @@
         "title": "Himself and his wife 😭",
         "question_time": 10,
         "negative_mark": 0.25,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1773906645,
-        "updated_at": 1773906645
+        "updated_at": 1773906666
       }
     ],
-    "draft_questions": [],
+    "draft_questions": [
+      {
+        "id": 1,
+        "draft_id": "5F8AFBB9",
+        "q_no": 1,
+        "question": "[Polls : Admission Stuffs]\n\nকোন শব্দ তীব্রতায় কানে শ্রুতি যন্ত্রণা শুরু হয়? [MAT 24-26]",
+        "options": "[\"১৮০ ডেসিবেল\", \"১২০ ডেসিবেল\", \"৮০ ডেসিবেল\", \"১৫০ ডেসিবেল\"]",
+        "correct_option": 1,
+        "explanation": "[Join : @Admission_Stuffs]",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 2,
+        "draft_id": "5F8AFBB9",
+        "q_no": 2,
+        "question": "[Polls : Admission Stuffs]\n\nগাজায় সাম্প্রতিক কালের সংঘর্ষ কবে শুরু হয়? [MAT 24-26]",
+        "options": "[\"ডিসেম্বর ২০২৩\", \"অক্টোবর ২০২৩\", \"সেপ্টেম্বর ২০২৩\", \"নভেম্বর ২০২৩\"]",
+        "correct_option": 1,
+        "explanation": "[Join : @Admission_Stuffs]",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 3,
+        "draft_id": "5F8AFBB9",
+        "q_no": 3,
+        "question": "[Polls : Admission Stuffs]\n\nবর্জ্য রিসাইক্লিং থেকে প্রধান কী সুফল পাওয়া যায়? [MAT 24-26]",
+        "options": "[\"দূষণ হ্রাস পায়\", \"বিদ্যুৎ খরচ কমে\", \"কাঁচামালের ব্যবহার বাড়ে\", \"পণ্য উৎপাদন খরচ কমে\"]",
+        "correct_option": 0,
+        "explanation": "[Join : @Admission_Stuffs]",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 4,
+        "draft_id": "5F8AFBB9",
+        "q_no": 4,
+        "question": "[Polls : Admission Stuffs]\n\nনিচের কোন মূলকটি বেনজিন বলয়ে অর্থো-প্যারা নির্দেশক? [MAT 24-26]",
+        "options": "[\"-CH3\", \"-NO2\", \"-CHO\", \"-CN\"]",
+        "correct_option": 0,
+        "explanation": "[Join : @Admission_Stuffs]",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 5,
+        "draft_id": "5F8AFBB9",
+        "q_no": 5,
+        "question": "[Polls : Admission Stuffs]\n\nফুসফুসের আবরণকে কী বলে? [MAT 24-26]",
+        "options": "[\"গ্লিসন ক্যাপসুল\", \"পেরিকার্ডিয়াম\", \"ডায়াফ্রাম\", \"প্লিওরা\"]",
+        "correct_option": 3,
+        "explanation": "[Join : @Admission_Stuffs]",
+        "src": "forwarded_quiz"
+      }
+    ],
     "active_drafts": [
       {
         "user_id": 8535385246,
@@ -42,7 +93,16 @@
         "updated_at": 1773906347
       }
     ],
-    "practice_links": [],
+    "practice_links": [
+      {
+        "draft_id": "5F8AFBB9",
+        "token": "DB22D2F4A9D580BC",
+        "max_attempts": 3,
+        "created_by": 8535385246,
+        "enabled": 1,
+        "created_at": 1773906664
+      }
+    ],
     "practice_attempts": []
   }
 }
