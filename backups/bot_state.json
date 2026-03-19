@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1773906475,
+  "generated_at": 1773906650,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -10,9 +10,26 @@
         "added_at": 1773906276
       }
     ],
-    "drafts": [],
+    "drafts": [
+      {
+        "id": "5F8AFBB9",
+        "owner_id": 8535385246,
+        "title": "Himself and his wife 😭",
+        "question_time": 10,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1773906645,
+        "updated_at": 1773906645
+      }
+    ],
     "draft_questions": [],
-    "active_drafts": [],
+    "active_drafts": [
+      {
+        "user_id": 8535385246,
+        "draft_id": "5F8AFBB9",
+        "updated_at": 1773906645
+      }
+    ],
     "group_bindings": [],
     "user_visuals": [
       {
