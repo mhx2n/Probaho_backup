@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1773910012,
+  "generated_at": 1773910031,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -29,7 +29,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1773909911,
-        "updated_at": 1773909959
+        "updated_at": 1773910026
       }
     ],
     "draft_questions": [
@@ -167,6 +167,16 @@
         "id": 34,
         "draft_id": "1ACBF448",
         "q_no": 6,
+        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
+        "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 35,
+        "draft_id": "1ACBF448",
+        "q_no": 7,
         "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
         "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
         "correct_option": 1,
