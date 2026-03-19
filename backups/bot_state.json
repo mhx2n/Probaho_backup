@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": 1773907060,
+  "generated_at": 1773907079,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -17,12 +17,113 @@
         "title": "Hi মিশরীয়",
         "question_time": 10,
         "negative_mark": 0.25,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1773907043,
-        "updated_at": 1773907043
+        "updated_at": 1773907074
       }
     ],
-    "draft_questions": [],
+    "draft_questions": [
+      {
+        "id": 11,
+        "draft_id": "2EF2E484",
+        "q_no": 1,
+        "question": "sexydudu\n​'ডাক্তার ডাক।' বাক্যটির সঠিক ইংরেজি অনুবাদ হবে- (MAT 17-18)",
+        "options": "[\"Call for doctor.\", \"Call doctor.\", \"Call in a doctor.\", \"Call in doctor.\"]",
+        "correct_option": 2,
+        "explanation": "putkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 12,
+        "draft_id": "2EF2E484",
+        "q_no": 2,
+        "question": "sexydudu\n​মানবদেহের করোটিকাতে কতগুলো অস্থি আছে? (MAT 17-18)",
+        "options": "[\"17 টি\", \"10 টি\", \"8 টি\", \"12 টি\"]",
+        "correct_option": 2,
+        "explanation": "putkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 13,
+        "draft_id": "2EF2E484",
+        "q_no": 3,
+        "question": "sexydudu\n​Àmi kharap tai hobe na na na na na na na na na 😝 😝 😂 in the gap in teeth 😞 to the morning and I were talking to you and",
+        "options": "[\"Nnebeh\", \"Jenne\", \"Nnmee\", \"Nek\"]",
+        "correct_option": 2,
+        "explanation": "😒😒🤖😂😒😂+$74😒+😂733😒7😂\n\nputkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 14,
+        "draft_id": "2EF2E484",
+        "q_no": 4,
+        "question": "sexydudu\n​যদি $\\alpha = \\frac{-1+\\sqrt{-3}}{2}$ এবং $\\beta = \\frac{-1-\\sqrt{-3}}{2}$ হয়, তবে এদের সম্পর্ক কী?",
+        "options": "[\"$\\\\alpha^3 = 1 + \\\\beta^2$\", \"$\\\\alpha = -\\\\beta^2$\", \"$\\\\alpha = \\\\beta^2$\", \"$\\\\alpha^3 = 1 - \\\\beta^2$\"]",
+        "correct_option": 2,
+        "explanation": "ব্যাখ্যা: এগুলো unity এর জটিল ঘনমূল। $\\omega=\\frac{-1+\\sqrt{-3}}{2}$, $\\omega^2=\\frac{-1-\\sqrt{-3}}{2} \\Rightarrow \\alpha=\\beta^2$\n\nputkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 15,
+        "draft_id": "2EF2E484",
+        "q_no": 5,
+        "question": "sexydudu\n​যদি $\\alpha = \\frac{-1+\\sqrt{-3}}{2}$ এবং $\\beta = \\frac{-1-\\sqrt{-3}}{2}$ হয়, তবে এদের সম্পর্ক কী?",
+        "options": "[\"$\\\\alpha^3 = 1 - \\\\beta^2$\", \"$\\\\alpha = \\\\beta^2$\", \"$\\\\alpha = -\\\\beta^2$\", \"$\\\\alpha^3 = 1 + \\\\beta^2$\"]",
+        "correct_option": 1,
+        "explanation": "ব্যাখ্যা: এগুলো unity এর জটিল ঘনমূল। $\\omega=\\frac{-1+\\sqrt{-3}}{2}$, $\\omega^2=\\frac{-1-\\sqrt{-3}}{2} \\Rightarrow \\alpha=\\beta^2$\n\nputkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 16,
+        "draft_id": "2EF2E484",
+        "q_no": 6,
+        "question": "sexydudu\n​A(h,k) বিন্দুটি 6x - y = 1 রেখার উপর অবস্থিত এবং B(h, k) বিন্দুটি 2x - 5y = 5 রেখার উপর অবস্থিত হলে, AB রেখাটির সমীকরণ-",
+        "options": "[\"x + y = 6\", \"3x - 5y - 5 = 0\", \"2x - 5y + 5 = 0\", \"2x - 5y - 5 = 0\"]",
+        "correct_option": 3,
+        "explanation": "no explanation can be made\n\nputkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 17,
+        "draft_id": "2EF2E484",
+        "q_no": 7,
+        "question": "I suggest that he - as soon as possible.",
+        "options": "[\"went to the doctor\", \"go to the doctor\", \"goes to the doctor\", \"none of the above\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 18,
+        "draft_id": "2EF2E484",
+        "q_no": 8,
+        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
+        "options": "[\"TdS = dU - PdV\", \"TdS = dU - VdP\", \"TdS = dU + VdP\", \"TdS = dU + PdV\"]",
+        "correct_option": 3,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 19,
+        "draft_id": "2EF2E484",
+        "q_no": 9,
+        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
+        "options": "[\"TdS = dU - VdP\", \"TdS = dU + PdV\", \"TdS = dU - PdV\", \"TdS = dU + VdP\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 20,
+        "draft_id": "2EF2E484",
+        "q_no": 10,
+        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
+        "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      }
+    ],
     "active_drafts": [
       {
         "user_id": 8535385246,
@@ -50,6 +151,14 @@
         "created_by": 8535385246,
         "enabled": 1,
         "created_at": 1773906664
+      },
+      {
+        "draft_id": "2EF2E484",
+        "token": "7FDD4749113EB88B",
+        "max_attempts": 3,
+        "created_by": 8535385246,
+        "enabled": 1,
+        "created_at": 1773907070
       }
     ],
     "practice_attempts": [
