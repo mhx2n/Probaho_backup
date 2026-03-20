@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1774031358,
+  "generated_at": 1774031414,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -85,6 +85,16 @@
         "status": "ready",
         "created_at": 1773995471,
         "updated_at": 1773995511
+      },
+      {
+        "id": "3CAE078A",
+        "owner_id": 8535385246,
+        "title": "Ho vai hoise",
+        "question_time": 10,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1774031409,
+        "updated_at": 1774031409
       }
     ],
     "draft_questions": [
@@ -617,8 +627,8 @@
       },
       {
         "user_id": 8535385246,
-        "draft_id": "8D43B33D",
-        "updated_at": 1774031353
+        "draft_id": "3CAE078A",
+        "updated_at": 1774031409
       }
     ],
     "group_bindings": [
