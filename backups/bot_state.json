@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1773995203,
+  "generated_at": 1773995476,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -75,6 +75,16 @@
         "status": "ready",
         "created_at": 1773993520,
         "updated_at": 1773993547
+      },
+      {
+        "id": "10B8BE99",
+        "owner_id": 8389621809,
+        "title": "Hiহুল",
+        "question_time": 10,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1773995471,
+        "updated_at": 1773995471
       }
     ],
     "draft_questions": [
@@ -452,8 +462,8 @@
     "active_drafts": [
       {
         "user_id": 8389621809,
-        "draft_id": "8D43B33D",
-        "updated_at": 1773993520
+        "draft_id": "10B8BE99",
+        "updated_at": 1773995471
       },
       {
         "user_id": 8535385246,
