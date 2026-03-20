@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1773982819,
+  "generated_at": 1773984606,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -55,6 +55,16 @@
         "status": "ready",
         "created_at": 1773936947,
         "updated_at": 1773936977
+      },
+      {
+        "id": "8B2FD6F8",
+        "owner_id": 8389621809,
+        "title": "Organic chemistry 🧪 test",
+        "question_time": 10,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1773984601,
+        "updated_at": 1773984601
       }
     ],
     "draft_questions": [
@@ -282,8 +292,8 @@
     "active_drafts": [
       {
         "user_id": 8389621809,
-        "draft_id": "82D0C978",
-        "updated_at": 1773936947
+        "draft_id": "8B2FD6F8",
+        "updated_at": 1773984601
       },
       {
         "user_id": 8535385246,
