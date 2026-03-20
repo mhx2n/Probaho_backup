@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1774031414,
+  "generated_at": 1774031439,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -92,9 +92,9 @@
         "title": "Ho vai hoise",
         "question_time": 10,
         "negative_mark": 0.25,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1774031409,
-        "updated_at": 1774031409
+        "updated_at": 1774031434
       }
     ],
     "draft_questions": [
@@ -617,6 +617,36 @@
         "correct_option": 2,
         "explanation": "",
         "src": "csv:6"
+      },
+      {
+        "id": 89,
+        "draft_id": "3CAE078A",
+        "q_no": 1,
+        "question": "𖹭 প্রবাহ ᯓᡣ𐭩\n​তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বয়ে প্রাপ্ত TdS = dU + PdV সমীকরণটি কোন ধরনের প্রক্রিয়ার জন্য প্রযোজ্য?",
+        "options": "[\"শুধুমাত্র প্রত্যাগামী প্রক্রিয়া\", \"শুধুমাত্র অপ্রত্যাগামী প্রক্রিয়া\", \"প্রত্যাগামী ও অপ্রত্যাগামী উভয় প্রক্রিয়া\", \"শুধুমাত্র সমোষ্ণ প্রক্রিয়া\"]",
+        "correct_option": 0,
+        "explanation": "TdS = dU + PdV সমীকরণটি তাপগতিবিদ্যার মৌলিক সম্পর্ক যা শুধুমাত্র প্রত্যাগামী (reversible) প্রক্রিয়ার জন্য প্রযোজ্য।\n🌸 @FX_Ur_Target 🌼",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 90,
+        "draft_id": "3CAE078A",
+        "q_no": 2,
+        "question": "𖹭 প্রবাহ ᯓᡣ𐭩\n​এনথালপি (H) এর সাপেক্ষে তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত রূপ নিচের কোনটি?",
+        "options": "[\"TdS = dH + VdP\", \"TdS = dH - VdP\", \"TdS = dH + PdV\", \"TdS = dH - PdV\"]",
+        "correct_option": 1,
+        "explanation": "এনথালপি H = U + PV এবং প্রথম সূত্র থেকে dH = TdS + VdP ⇒ TdS = dH - VdP হয়।\n🌸 @FX_Ur_Target 🌼",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 91,
+        "draft_id": "3CAE078A",
+        "q_no": 3,
+        "question": "𖹭 প্রবাহ ᯓᡣ𐭩\n​স্থির আয়তনে তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ TdS = dU + PdV এর পরিবর্তিত রূপ কী হবে?",
+        "options": "[\"TdS = dU\", \"TdS = PdV\", \"TdS = dH\", \"TdS = VdP\"]",
+        "correct_option": 0,
+        "explanation": "স্থির আয়তনে dV = 0 হওয়ায় TdS = dU + PdV সমীকরণে PdV পদ শূন্য হয়, তাই সমীকরণটি হয় TdS = dU।\n🌸 @FX_Ur_Target 🌼",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
@@ -748,6 +778,14 @@
         "created_by": 8389621809,
         "enabled": 1,
         "created_at": 1773995486
+      },
+      {
+        "draft_id": "3CAE078A",
+        "token": "24CDB77FFD5DEBF7",
+        "max_attempts": 3,
+        "created_by": 8535385246,
+        "enabled": 1,
+        "created_at": 1774031432
       }
     ],
     "practice_attempts": [
