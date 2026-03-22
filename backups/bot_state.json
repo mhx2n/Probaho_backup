@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1774168314,
+  "generated_at": 1774168372,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -95,6 +95,16 @@
         "status": "ready",
         "created_at": 1774031409,
         "updated_at": 1774033242
+      },
+      {
+        "id": "F33EF9F1",
+        "owner_id": 7487861081,
+        "title": "Hlllkajajjjs",
+        "question_time": 10,
+        "negative_mark": 1.25,
+        "status": "draft",
+        "created_at": 1774168367,
+        "updated_at": 1774168367
       }
     ],
     "draft_questions": [
@@ -650,6 +660,11 @@
       }
     ],
     "active_drafts": [
+      {
+        "user_id": 7487861081,
+        "draft_id": "F33EF9F1",
+        "updated_at": 1774168367
+      },
       {
         "user_id": 8389621809,
         "draft_id": "82D0C978",
