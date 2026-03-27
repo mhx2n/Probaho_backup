@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1774438483,
+  "generated_at": 1774651017,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -949,8 +949,8 @@
       {
         "draft_id": "82D0C978",
         "user_id": 8535385246,
-        "attempts": 1,
-        "last_attempt_at": 1774438478
+        "attempts": 2,
+        "last_attempt_at": 1774651012
       }
     ]
   }
