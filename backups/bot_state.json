@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1774999433,
+  "generated_at": 1774999769,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -827,7 +827,7 @@
       {
         "draft_id": "1ACBF448",
         "token": "9547D974E8C037AA",
-        "max_attempts": 3,
+        "max_attempts": 0,
         "created_by": 8535385246,
         "enabled": 1,
         "created_at": 1773909952
@@ -867,7 +867,7 @@
       {
         "draft_id": "8D43B33D",
         "token": "DECCE395416EA7F3",
-        "max_attempts": 3,
+        "max_attempts": 0,
         "created_by": 8389621809,
         "enabled": 1,
         "created_at": 1773993528
@@ -875,7 +875,7 @@
       {
         "draft_id": "10B8BE99",
         "token": "128F3DC395CF811A",
-        "max_attempts": 3,
+        "max_attempts": 0,
         "created_by": 8389621809,
         "enabled": 1,
         "created_at": 1773995486
@@ -883,7 +883,7 @@
       {
         "draft_id": "3CAE078A",
         "token": "24CDB77FFD5DEBF7",
-        "max_attempts": 3,
+        "max_attempts": 0,
         "created_by": 8535385246,
         "enabled": 1,
         "created_at": 1774031432
