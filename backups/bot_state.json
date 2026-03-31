@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1774999899,
+  "generated_at": 1774999951,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -114,7 +114,7 @@
         "negative_mark": 0.0,
         "status": "ready",
         "created_at": 1774999827,
-        "updated_at": 1774999894
+        "updated_at": 1774999946
       }
     ],
     "draft_questions": [
@@ -756,6 +756,16 @@
         "options": "[\"আর্কিওজয়িক\", \"সিনোজয়িক\", \"প্যালিওজয়িক\", \"মেসোজয়িক\"]",
         "correct_option": 3,
         "explanation": "JU'19-20",
+        "src": "quizbot_clone"
+      },
+      {
+        "id": 101,
+        "draft_id": "63B3316E",
+        "q_no": 2,
+        "question": "Genetics শব্দটি প্রচলন করেন কে?",
+        "options": "[\"Carl Correns\", \"William Bateson\", \"Johann Mendel\", \"Hugo de Vries\"]",
+        "correct_option": 1,
+        "explanation": "",
         "src": "quizbot_clone"
       }
     ],
