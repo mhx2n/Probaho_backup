@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1774999832,
+  "generated_at": 1774999899,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -112,9 +112,9 @@
         "title": "QuizBot Clone dNfulaDT",
         "question_time": 30,
         "negative_mark": 0.0,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1774999827,
-        "updated_at": 1774999827
+        "updated_at": 1774999894
       }
     ],
     "draft_questions": [
@@ -747,6 +747,16 @@
         "correct_option": 3,
         "explanation": "x = r cosθ = √3·cos(π/3) = √3·1/2 = √3/2, y = r sinθ = √3·sin(π/3) = √3·√3/2 = 3/2 ⇒ (√3/2, 3/2) ✅\n\n🔗 {.....}",
         "src": "forwarded_quiz"
+      },
+      {
+        "id": 100,
+        "draft_id": "63B3316E",
+        "q_no": 1,
+        "question": "কোন মহাকালকে ❝সরীসৃপের যুগ❞ বলে?",
+        "options": "[\"আর্কিওজয়িক\", \"সিনোজয়িক\", \"প্যালিওজয়িক\", \"মেসোজয়িক\"]",
+        "correct_option": 3,
+        "explanation": "JU'19-20",
+        "src": "quizbot_clone"
       }
     ],
     "active_drafts": [
@@ -905,6 +915,14 @@
         "created_by": 7487861081,
         "enabled": 1,
         "created_at": 1774168393
+      },
+      {
+        "draft_id": "63B3316E",
+        "token": "F2FF2B1A4BE29DC4",
+        "max_attempts": 0,
+        "created_by": 8535385246,
+        "enabled": 1,
+        "created_at": 1774999894
       }
     ],
     "practice_attempts": [
