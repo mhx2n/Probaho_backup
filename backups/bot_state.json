@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775020697,
+  "generated_at": 1775020711,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -86,10 +86,10 @@
         "owner_id": 8535385246,
         "title": "His wife and add glow",
         "question_time": 30,
-        "negative_mark": 0.0,
+        "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1774999827,
-        "updated_at": 1775020692,
+        "updated_at": 1775020706,
         "show_title_prefix": 1
       },
       {
