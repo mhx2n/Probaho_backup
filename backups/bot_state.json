@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775014758,
+  "generated_at": 1775016240,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -115,6 +115,16 @@
         "status": "ready",
         "created_at": 1774999827,
         "updated_at": 1774999946
+      },
+      {
+        "id": "3812A618",
+        "owner_id": 8389621809,
+        "title": "New exam",
+        "question_time": 10,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1775016235,
+        "updated_at": 1775016235
       }
     ],
     "draft_questions": [
@@ -777,8 +787,8 @@
       },
       {
         "user_id": 8389621809,
-        "draft_id": "10B8BE99",
-        "updated_at": 1775014716
+        "draft_id": "3812A618",
+        "updated_at": 1775016235
       },
       {
         "user_id": 8535385246,
