@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775020744,
+  "generated_at": 1775020750,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -89,7 +89,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1774999827,
-        "updated_at": 1775020739,
+        "updated_at": 1775020745,
         "show_title_prefix": 0
       },
       {
@@ -436,26 +436,6 @@
         "src": "forwarded_quiz"
       },
       {
-        "id": 100,
-        "draft_id": "63B3316E",
-        "q_no": 1,
-        "question": "কোন মহাকালকে ❝সরীসৃপের যুগ❞ বলে?",
-        "options": "[\"আর্কিওজয়িক\", \"সিনোজয়িক\", \"প্যালিওজয়িক\", \"মেসোজয়িক\"]",
-        "correct_option": 3,
-        "explanation": "JU'19-20",
-        "src": "quizbot_clone"
-      },
-      {
-        "id": 101,
-        "draft_id": "63B3316E",
-        "q_no": 2,
-        "question": "Genetics শব্দটি প্রচলন করেন কে?",
-        "options": "[\"Carl Correns\", \"William Bateson\", \"Johann Mendel\", \"Hugo de Vries\"]",
-        "correct_option": 1,
-        "explanation": "",
-        "src": "quizbot_clone"
-      },
-      {
         "id": 102,
         "draft_id": "3812A618",
         "q_no": 1,
@@ -494,6 +474,26 @@
         "correct_option": 2,
         "explanation": "Paris is the capital.",
         "src": "pasted_text"
+      },
+      {
+        "id": 106,
+        "draft_id": "63B3316E",
+        "q_no": 1,
+        "question": "Genetics শব্দটি প্রচলন করেন কে?",
+        "options": "[\"Carl Correns\", \"William Bateson\", \"Johann Mendel\", \"Hugo de Vries\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "quizbot_clone"
+      },
+      {
+        "id": 107,
+        "draft_id": "63B3316E",
+        "q_no": 2,
+        "question": "কোন মহাকালকে ❝সরীসৃপের যুগ❞ বলে?",
+        "options": "[\"আর্কিওজয়িক\", \"সিনোজয়িক\", \"প্যালিওজয়িক\", \"মেসোজয়িক\"]",
+        "correct_option": 3,
+        "explanation": "JU'19-20",
+        "src": "quizbot_clone"
       }
     ],
     "active_drafts": [
