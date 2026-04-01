@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775020613,
+  "generated_at": 1775020697,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -84,12 +84,12 @@
       {
         "id": "63B3316E",
         "owner_id": 8535385246,
-        "title": "QuizBot Clone dNfulaDT",
+        "title": "His wife and add glow",
         "question_time": 30,
         "negative_mark": 0.0,
         "status": "ready",
         "created_at": 1774999827,
-        "updated_at": 1774999946,
+        "updated_at": 1775020692,
         "show_title_prefix": 1
       },
       {
