@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775016255,
+  "generated_at": 1775016364,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -124,7 +124,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1775016235,
-        "updated_at": 1775016250
+        "updated_at": 1775016359
       }
     ],
     "draft_questions": [
@@ -807,6 +807,16 @@
         "correct_option": 1,
         "explanation": "ঘূর্ণিঝড়ে সৃষ্ট প্রবল বায়ুর তাড়নায় সমুদ্রের জলরাশি উত্তাল হয়ে ফুলে উঠে উপকূল বা সামুদ্রিক দ্বীপে আঘাত হানলে জলোচ্ছ্বাস ঘটে। ]",
         "src": "csv:4"
+      },
+      {
+        "id": 105,
+        "draft_id": "3812A618",
+        "q_no": 4,
+        "question": "What is the capital of France?",
+        "options": "[\"Berlin\", \"Madrid\", \"Paris\", \"Rome\"]",
+        "correct_option": 2,
+        "explanation": "Paris is the capital.",
+        "src": "pasted_text"
       }
     ],
     "active_drafts": [
