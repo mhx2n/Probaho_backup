@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775021730,
+  "generated_at": 1775021739,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -120,9 +120,9 @@
         "title": "Hi",
         "question_time": 10,
         "negative_mark": 0.25,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1775021725,
-        "updated_at": 1775021725,
+        "updated_at": 1775021734,
         "show_title_prefix": 1
       }
     ],
@@ -586,6 +586,76 @@
         "correct_option": 3,
         "explanation": "",
         "src": "csv:4"
+      },
+      {
+        "id": 120,
+        "draft_id": "3A388F1C",
+        "q_no": 1,
+        "question": "ড্রসোফিলা মাছির লুপ্তপ্রায় ডানা সৃষ্টিকারী লিথাল জিন -",
+        "options": "[\"সেমিলিথাল জিন\", \"সাবভাইটাল জিন\", \"উভয়\", \"কোনটিই নয়\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "csv:2"
+      },
+      {
+        "id": 121,
+        "draft_id": "3A388F1C",
+        "q_no": 2,
+        "question": "কোনটি জীবাশ্ম পাখি?",
+        "options": "[\"Passer domesticus\", \"Corvus splendens\", \"Archaeopteryx lithographica\", \"All\"]",
+        "correct_option": 2,
+        "explanation": "",
+        "src": "csv:3"
+      },
+      {
+        "id": 122,
+        "draft_id": "3A388F1C",
+        "q_no": 3,
+        "question": "পরিপূরক জিনের ফিনোটাইপ অনুপাত -",
+        "options": "[\"৯:৩:৩:৩\", \"৯:৩:৩:১\", \"৯:৭\", \"১৩:৩\"]",
+        "correct_option": 2,
+        "explanation": "",
+        "src": "csv:4"
+      },
+      {
+        "id": 123,
+        "draft_id": "3A388F1C",
+        "q_no": 4,
+        "question": "লিথাল জিনের প্রভাব -",
+        "options": "[\"হিমোফিলিয়া\", \"ক্রীপার মুরগী\", \"সবগুলো\", \"কোনটি নয়\"]",
+        "correct_option": 2,
+        "explanation": "",
+        "src": "csv:5"
+      },
+      {
+        "id": 124,
+        "draft_id": "3A388F1C",
+        "q_no": 5,
+        "question": "Johann Mendel কত প্রকার মটরশুঁটির পরীক্ষা-নিরীক্ষা করেন?",
+        "options": "[\"২৫\", \"২৪\", \"৩৩\", \"৩৪\"]",
+        "correct_option": 3,
+        "explanation": "",
+        "src": "csv:6"
+      },
+      {
+        "id": 125,
+        "draft_id": "3A388F1C",
+        "q_no": 6,
+        "question": "কোন মহাকালকে ❝সরীসৃপের যুগ❞ বলে?",
+        "options": "[\"আর্কিওজয়িক\", \"সিনোজয়িক\", \"প্যালিওজয়িক\", \"মেসোজয়িক\"]",
+        "correct_option": 3,
+        "explanation": "",
+        "src": "csv:7"
+      },
+      {
+        "id": 126,
+        "draft_id": "3A388F1C",
+        "q_no": 7,
+        "question": "Genetics শব্দটি প্রচলন করেন কে?",
+        "options": "[\"Carl Correns\", \"William Bateson\", \"Johann Mendel\", \"Hugo de Vries\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "csv:8"
       }
     ],
     "active_drafts": [
@@ -768,6 +838,14 @@
         "created_by": 8535385246,
         "enabled": 1,
         "created_at": 1775021513
+      },
+      {
+        "draft_id": "3A388F1C",
+        "token": "554954C2AEE70052",
+        "max_attempts": 0,
+        "created_by": 8535385246,
+        "enabled": 1,
+        "created_at": 1775021734
       }
     ],
     "practice_attempts": [
