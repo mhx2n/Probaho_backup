@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775232938,
+  "generated_at": 1775232998,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -106,7 +106,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1775016235,
-        "updated_at": 1775016359,
+        "updated_at": 1775232993,
         "show_title_prefix": 1,
         "html_export_theme": "auto"
       },
@@ -696,6 +696,16 @@
         "options": "[\"Carl Correns\", \"William Bateson\", \"Johann Mendel\", \"Hugo de Vries\"]",
         "correct_option": 1,
         "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 136,
+        "draft_id": "3812A618",
+        "q_no": 5,
+        "question": "✨TARGET 🎯 ] কৌনিক ভরবেগের একক কী?",
+        "options": "[\"(a) kg·m·s−2\", \"(b) kg·m·s−1\", \"(c) kg·m2·s−1\", \"(d) kg·m2·s−2\"]",
+        "correct_option": 2,
+        "explanation": "ব্যাখ্যা: L = Iω = kg·m2·s−1 @FX_Ur_Target",
         "src": "forwarded_quiz"
       }
     ],
