@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775038100,
+  "generated_at": 1775213208,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -34,8 +34,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1773907614,
-        "updated_at": 1773909864,
-        "show_title_prefix": 1
+        "updated_at": 1773909864
       },
       {
         "id": "1ACBF448",
@@ -45,8 +44,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1773909911,
-        "updated_at": 1773911510,
-        "show_title_prefix": 1
+        "updated_at": 1773911510
       },
       {
         "id": "82D0C978",
@@ -56,8 +54,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1773936947,
-        "updated_at": 1775021633,
-        "show_title_prefix": 1
+        "updated_at": 1775021633
       },
       {
         "id": "3CAE078A",
@@ -67,8 +64,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1774031409,
-        "updated_at": 1774033242,
-        "show_title_prefix": 1
+        "updated_at": 1774033242
       },
       {
         "id": "F33EF9F1",
@@ -78,8 +74,7 @@
         "negative_mark": 1.25,
         "status": "ready",
         "created_at": 1774168367,
-        "updated_at": 1774317087,
-        "show_title_prefix": 1
+        "updated_at": 1774317087
       },
       {
         "id": "63B3316E",
@@ -89,8 +84,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1774999827,
-        "updated_at": 1775021120,
-        "show_title_prefix": 0
+        "updated_at": 1775021120
       },
       {
         "id": "3812A618",
@@ -100,8 +94,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1775016235,
-        "updated_at": 1775016359,
-        "show_title_prefix": 1
+        "updated_at": 1775016359
       },
       {
         "id": "2F53FC14",
@@ -111,8 +104,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1775021480,
-        "updated_at": 1775038095,
-        "show_title_prefix": 0
+        "updated_at": 1775038095
       },
       {
         "id": "3A388F1C",
@@ -122,8 +114,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1775021725,
-        "updated_at": 1775021734,
-        "show_title_prefix": 1
+        "updated_at": 1775021734
       }
     ],
     "draft_questions": [
