@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775213331,
+  "generated_at": 1775213378,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -122,9 +122,9 @@
         "title": "Hi I love you too",
         "question_time": 20,
         "negative_mark": 0.25,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1775213326,
-        "updated_at": 1775213326
+        "updated_at": 1775213373
       }
     ],
     "draft_questions": [
@@ -657,6 +657,46 @@
         "correct_option": 1,
         "explanation": "",
         "src": "csv:8"
+      },
+      {
+        "id": 127,
+        "draft_id": "28E9F3C5",
+        "q_no": 1,
+        "question": "[Polls : Admission Stuffs] কোনটি মৌলিক এককের পরিমাপ নয়? [GST 23-24]",
+        "options": "[\"সময়\", \"ভর\", \"ভরবেগ\", \"তাপমাত্রা\"]",
+        "correct_option": 2,
+        "explanation": "ভরবেগ = ভর × বেগ [Join : ]",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 128,
+        "draft_id": "28E9F3C5",
+        "q_no": 2,
+        "question": "[Polls : Admission Stuffs] নিচের কোনটি মৌলিক একক? [DU 16-17]",
+        "options": "[\"Coulomb\", \"Ampere\", \"Volt\", \"Ohm\"]",
+        "correct_option": 1,
+        "explanation": "[Join : ]",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 129,
+        "draft_id": "28E9F3C5",
+        "q_no": 3,
+        "question": "[Polls : Admission Stuffs] Å (angstrom) একক কোন রাশির?",
+        "options": "[\"দৈর্ঘ্য\", \"ভর\", \"কম্পাঙ্ক\", \"সময়\"]",
+        "correct_option": 0,
+        "explanation": "1Å = 10−10 m [Join : ]",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 130,
+        "draft_id": "28E9F3C5",
+        "q_no": 4,
+        "question": "[Polls : Admission Stuffs] নিচের কোনটি SI একক নয়?",
+        "options": "[\"K\", \"erg\", \"cd\", \"A\"]",
+        "correct_option": 1,
+        "explanation": "[Join : ]",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
@@ -847,6 +887,14 @@
         "created_by": 8535385246,
         "enabled": 1,
         "created_at": 1775021734
+      },
+      {
+        "draft_id": "28E9F3C5",
+        "token": "1ACAA29E92D6F5F2",
+        "max_attempts": 0,
+        "created_by": 8535385246,
+        "enabled": 1,
+        "created_at": 1775213372
       }
     ],
     "practice_attempts": [
