@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775252965,
+  "generated_at": 1775275804,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -46,7 +46,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1773909911,
-        "updated_at": 1773911510,
+        "updated_at": 1775275799,
         "show_title_prefix": 1,
         "html_export_theme": "auto"
       },
@@ -226,96 +226,6 @@
         "options": "[\"ফল\", \"গর্ভাশয়ের প্রকৃতি\", \"পাতা\", \"অমরাবিন্যাস\"]",
         "correct_option": 0,
         "explanation": "ব্যাখ্যা: লিগিউম (Legume) হলো একটি বিশেষ ধরনের ফল যা শিম বা লিগিউমিনোসি গোত্রের উদ্ভিদে দেখা যায়।",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 29,
-        "draft_id": "1ACBF448",
-        "q_no": 1,
-        "question": "sexydudu\n​যদি $\\alpha = \\frac{-1+\\sqrt{-3}}{2}$ এবং $\\beta = \\frac{-1-\\sqrt{-3}}{2}$ হয়, তবে এদের সম্পর্ক কী?",
-        "options": "[\"$\\\\alpha^3 = 1 - \\\\beta^2$\", \"$\\\\alpha = \\\\beta^2$\", \"$\\\\alpha = -\\\\beta^2$\", \"$\\\\alpha^3 = 1 + \\\\beta^2$\"]",
-        "correct_option": 1,
-        "explanation": "ব্যাখ্যা: এগুলো unity এর জটিল ঘনমূল। $\\omega=\\frac{-1+\\sqrt{-3}}{2}$, $\\omega^2=\\frac{-1-\\sqrt{-3}}{2} \\Rightarrow \\alpha=\\beta^2$\n\nputkicushi",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 30,
-        "draft_id": "1ACBF448",
-        "q_no": 2,
-        "question": "sexydudu\n​A(h,k) বিন্দুটি 6x - y = 1 রেখার উপর অবস্থিত এবং B(h, k) বিন্দুটি 2x - 5y = 5 রেখার উপর অবস্থিত হলে, AB রেখাটির সমীকরণ-",
-        "options": "[\"x + y = 6\", \"3x - 5y - 5 = 0\", \"2x - 5y + 5 = 0\", \"2x - 5y - 5 = 0\"]",
-        "correct_option": 3,
-        "explanation": "no explanation can be made\n\nputkicushi",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 31,
-        "draft_id": "1ACBF448",
-        "q_no": 3,
-        "question": "I suggest that he - as soon as possible.",
-        "options": "[\"went to the doctor\", \"go to the doctor\", \"goes to the doctor\", \"none of the above\"]",
-        "correct_option": 1,
-        "explanation": "",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 32,
-        "draft_id": "1ACBF448",
-        "q_no": 4,
-        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
-        "options": "[\"TdS = dU - PdV\", \"TdS = dU - VdP\", \"TdS = dU + VdP\", \"TdS = dU + PdV\"]",
-        "correct_option": 3,
-        "explanation": "",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 33,
-        "draft_id": "1ACBF448",
-        "q_no": 5,
-        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
-        "options": "[\"TdS = dU - VdP\", \"TdS = dU + PdV\", \"TdS = dU - PdV\", \"TdS = dU + VdP\"]",
-        "correct_option": 1,
-        "explanation": "",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 34,
-        "draft_id": "1ACBF448",
-        "q_no": 6,
-        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
-        "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
-        "correct_option": 1,
-        "explanation": "",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 35,
-        "draft_id": "1ACBF448",
-        "q_no": 7,
-        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
-        "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
-        "correct_option": 1,
-        "explanation": "",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 36,
-        "draft_id": "1ACBF448",
-        "q_no": 8,
-        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
-        "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
-        "correct_option": 1,
-        "explanation": "",
-        "src": "forwarded_quiz"
-      },
-      {
-        "id": 37,
-        "draft_id": "1ACBF448",
-        "q_no": 9,
-        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
-        "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
-        "correct_option": 1,
-        "explanation": "",
         "src": "forwarded_quiz"
       },
       {
@@ -707,6 +617,66 @@
         "correct_option": 1,
         "explanation": "ঘূর্ণিঝড় হলো পৃথিবীর আবর্তনের সাথে একই দিকে ঘূর্ণনশীল ফ্লুইড গতি যা প্রবল বায়ুপ্রবাহ সৃষ্টি করে। ]",
         "src": "csv:3"
+      },
+      {
+        "id": 142,
+        "draft_id": "1ACBF448",
+        "q_no": 1,
+        "question": "sexydudu যদি $\\alpha = \\frac{-1+\\sqrt{-3}}{2}$ এবং $\\beta = \\frac{-1-\\sqrt{-3}}{2}$ হয়, তবে এদের সম্পর্ক কী?",
+        "options": "[\"$\\\\alpha^3 = 1 - \\\\beta^2$\", \"$\\\\alpha = \\\\beta^2$\", \"$\\\\alpha = -\\\\beta^2$\", \"$\\\\alpha^3 = 1 + \\\\beta^2$\"]",
+        "correct_option": 1,
+        "explanation": "ব্যাখ্যা: এগুলো unity এর জটিল ঘনমূল। $\\omega=\\frac{-1+\\sqrt{-3}}{2}$, $\\omega^2=\\frac{-1-\\sqrt{-3}}{2} \\Rightarrow \\alpha=\\beta^2$ putkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 143,
+        "draft_id": "1ACBF448",
+        "q_no": 2,
+        "question": "sexydudu A(h,k) বিন্দুটি 6x - y = 1 রেখার উপর অবস্থিত এবং B(h, k) বিন্দুটি 2x - 5y = 5 রেখার উপর অবস্থিত হলে, AB রেখাটির সমীকরণ",
+        "options": "[\"x + y = 6\", \"3x - 5y - 5 = 0\", \"2x - 5y + 5 = 0\", \"2x - 5y - 5 = 0\"]",
+        "correct_option": 3,
+        "explanation": "no explanation can be made putkicushi",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 144,
+        "draft_id": "1ACBF448",
+        "q_no": 3,
+        "question": "I suggest that he - as soon as possible.",
+        "options": "[\"went to the doctor\", \"go to the doctor\", \"goes to the doctor\", \"none of the above\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 145,
+        "draft_id": "1ACBF448",
+        "q_no": 4,
+        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
+        "options": "[\"TdS = dU - PdV\", \"TdS = dU - VdP\", \"TdS = dU + VdP\", \"TdS = dU + PdV\"]",
+        "correct_option": 3,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 146,
+        "draft_id": "1ACBF448",
+        "q_no": 5,
+        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
+        "options": "[\"TdS = dU - VdP\", \"TdS = dU + PdV\", \"TdS = dU - PdV\", \"TdS = dU + VdP\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "forwarded_quiz"
+      },
+      {
+        "id": 147,
+        "draft_id": "1ACBF448",
+        "q_no": 6,
+        "question": "তাপগতিবিদ্যার প্রথম ও দ্বিতীয় সূত্রের সমন্বিত সমীকরণ কোনটি?",
+        "options": "[\"TdS = dU - PdV\", \"TdS = dU + PdV\", \"TdS = dU + VdP\", \"TdS = dU - VdP\"]",
+        "correct_option": 1,
+        "explanation": "",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
