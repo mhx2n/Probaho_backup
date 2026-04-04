@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775328975,
+  "generated_at": 1775328980,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -26,8 +26,8 @@
         "negative_mark": 0.245,
         "status": "ready",
         "created_at": 1775328850,
-        "updated_at": 1775328949,
-        "show_title_prefix": 1,
+        "updated_at": 1775328975,
+        "show_title_prefix": 0,
         "html_export_theme": "auto"
       }
     ],
