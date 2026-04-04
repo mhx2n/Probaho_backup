@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775329930,
+  "generated_at": 1775329947,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -11,10 +11,10 @@
         "owner_id": 8535385246,
         "title": "Mew mew 😅",
         "question_time": 67,
-        "negative_mark": 0.245,
+        "negative_mark": 0.1269699926,
         "status": "ready",
         "created_at": 1775328850,
-        "updated_at": 1775329919,
+        "updated_at": 1775329939,
         "show_title_prefix": 0,
         "html_export_theme": "auto"
       }
@@ -155,7 +155,7 @@
       {
         "user_id": 8535385246,
         "draft_id": "1F33A38A",
-        "updated_at": 1775329925
+        "updated_at": 1775329942
       }
     ],
     "group_bindings": [],
