@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775328855,
+  "generated_at": 1775328954,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -24,9 +24,9 @@
         "title": "GST EXAM 💕",
         "question_time": 10,
         "negative_mark": 0.245,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1775328850,
-        "updated_at": 1775328850,
+        "updated_at": 1775328949,
         "show_title_prefix": 1,
         "html_export_theme": "auto"
       }
@@ -226,6 +226,136 @@
         "id": 27,
         "draft_id": "BEAA888C",
         "q_no": 20,
+        "question": "\\(f(x)=\\frac{1}{\\sqrt{|2+x|}}\\) এর ডোমেইন কোনটি?",
+        "options": "[\"\\\\((-\\\\infty,-2)\\\\cup(-2,\\\\infty)\\\\)\", \"\\\\((-\\\\infty,-2]\\\\cup[-2,\\\\infty)\\\\)\", \"\\\\((-\\\\infty,-2)\\\\cup[-2,\\\\infty)\\\\)\", \"\\\\((-\\\\infty,\\\\infty)\\\\)\"]",
+        "correct_option": 0,
+        "explanation": "বর্গমূলের ভেতর শূন্য হতে পারবে না ⇒ \\(2+x\\neq0\\Rightarrow x\\neq-2\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 28,
+        "draft_id": "1F33A38A",
+        "q_no": 1,
+        "question": "F এবং 2F মানের দুইটি সমান্তরাল বলের লব্ধি ক্রিয়ারেখা যদি একই বিন্দুতে ক্রিয়া করে এবং 2F ও (2F+2) মানের বলের লব্ধির ক্রিয়ারেখাও একই হলে F এর মান কত?",
+        "options": "[\"\\\\(\\\\frac{1}{2}\\\\)\", \"\\\\(1\\\\)\", \"\\\\(2\\\\)\", \"\\\\(4\\\\)\"]",
+        "correct_option": 1,
+        "explanation": "সদৃশ কোণে ত্রিভুজের ধর্ম থেকে \\(\\frac{2F}{2F+2}=\\frac{F}{2F}\\Rightarrow 4F=2F+2\\Rightarrow F=1\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 29,
+        "draft_id": "1F33A38A",
+        "q_no": 2,
+        "question": "\\(\\displaystyle \\lim_{x\\to0}\\frac{e^{5x}+e^{-5x}-2}{x^2}\\) এর মান কত?",
+        "options": "[\"\\\\(-2\\\\)\", \"\\\\(0\\\\)\", \"\\\\(25\\\\)\", \"\\\\(50\\\\)\"]",
+        "correct_option": 2,
+        "explanation": "L’Hospital প্রয়োগ করলে \\(\\lim\\frac{5e^{5x}-5e^{-5x}}{2x}\\) আবার প্রয়োগে \\(\\frac{25e^{5x}+25e^{-5x}}{2}\\Big|_{x=0}=25\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 30,
+        "draft_id": "1F33A38A",
+        "q_no": 3,
+        "question": "\\(r(1+\\cos\\theta)=2\\) এর কার্টেসিয়ান সমীকরণ কোনটি?",
+        "options": "[\"\\\\(x^2+y^2+x-2=0\\\\)\", \"\\\\(y^2-4x=4\\\\)\", \"\\\\(x^2+4x=2\\\\)\", \"\\\\(y^2+4x=4\\\\)\"]",
+        "correct_option": 3,
+        "explanation": "\\(r=2/(1+\\cos\\theta)\\Rightarrow r+r\\cos\\theta=2\\Rightarrow \\sqrt{x^2+y^2}+x=2\\Rightarrow y^2+4x=4\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 31,
+        "draft_id": "1F33A38A",
+        "q_no": 4,
+        "question": "\\(3\\times2\\) এবং \\(2\\times3\\) ম্যাট্রিক্স \\(A,B\\) এর প্রতিটি উপাদান 0 বা 1 হলে \\(tr(BA)\\) এর সর্বোচ্চ মান কত?",
+        "options": "[\"\\\\(0\\\\)\", \"\\\\(1\\\\)\", \"\\\\(6\\\\)\", \"\\\\(9\\\\)\"]",
+        "correct_option": 2,
+        "explanation": "সর্বোচ্চ মান পেতে সব উপাদান 1 ধরলে \\(BA=\\begin{bmatrix}3&3\\\\3&3\\end{bmatrix}\\) ⇒ \\(tr=3+3=6\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 32,
+        "draft_id": "1F33A38A",
+        "q_no": 5,
+        "question": "কোন সমীকরণের একটি মূল \\(2+i\\sqrt3\\)?",
+        "options": "[\"\\\\(x^2+4x-7=0\\\\)\", \"\\\\(x^2-3x+2=0\\\\)\", \"\\\\(x^2-4x+7=0\\\\)\", \"\\\\(x^2-4x-7=0\\\\)\"]",
+        "correct_option": 2,
+        "explanation": "যুগ্মমূল \\(2\\pm i\\sqrt3\\) ⇒ \\((x-2)^2+3=0\\Rightarrow x^2-4x+7=0\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 33,
+        "draft_id": "1F33A38A",
+        "q_no": 6,
+        "question": "যদি \\(f(x)=x+\\sin x\\) হয় তবে কোন \\(x\\) এ \\(f'(x)=0\\)?",
+        "options": "[\"\\\\(\\\\frac{\\\\pi}{5}\\\\)\", \"\\\\(\\\\frac{\\\\pi}{4}\\\\)\", \"\\\\(\\\\frac{\\\\pi}{2}\\\\)\", \"\\\\(\\\\pi\\\\)\"]",
+        "correct_option": 3,
+        "explanation": "\\(f'(x)=1+\\cos x=0\\Rightarrow \\cos x=-1\\Rightarrow x=\\pi\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 34,
+        "draft_id": "1F33A38A",
+        "q_no": 7,
+        "question": "\\(-\\pi\\) থেকে \\(\\pi\\) এর মধ্যে \\(\\cos\\theta+1=0\\) এর সমাধান কোনটি?",
+        "options": "[\"\\\\(\\\\{-\\\\pi,\\\\pi\\\\}\\\\)\", \"\\\\(\\\\{\\\\pi,2\\\\pi\\\\}\\\\)\", \"\\\\(\\\\{\\\\pi,\\\\frac{3\\\\pi}{2}\\\\}\\\\)\", \"\\\\(\\\\{\\\\pi,\\\\frac{2\\\\pi}{2}\\\\}\\\\)\"]",
+        "correct_option": 0,
+        "explanation": "\\(\\cos\\theta=-1\\Rightarrow \\theta=\\pi+2n\\pi\\)। সীমার মধ্যে \\(\\theta=\\pm\\pi\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 35,
+        "draft_id": "1F33A38A",
+        "q_no": 8,
+        "question": "একটি বিন্দু থেকে উৎস ও বিন্দুটির মধ্যবিন্দুর সাথে সমান দূরত্ব হলে বিন্দুটির পথের সমীকরণ কী?",
+        "options": "[\"\\\\(x+y=0\\\\)\", \"\\\\(x-y=0\\\\)\", \"\\\\(x-y=1\\\\)\", \"\\\\(x+y=1\\\\)\"]",
+        "correct_option": 1,
+        "explanation": "ধরি \\(P(x,y)\\), মধ্যবিন্দু \\((\\frac{x}{2},\\frac{y}{2})\\)। দূরত্ব সমান ⇒ \\(x=y\\Rightarrow x-y=0\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 36,
+        "draft_id": "1F33A38A",
+        "q_no": 9,
+        "question": "\\(2x^2+3y^2-12x+12y+29=0\\) উপবৃত্তের উপকেন্দ্রের লম্বের দৈর্ঘ্য কত?",
+        "options": "[\"\\\\(\\\\frac{\\\\sqrt2}{3}\\\\)\", \"\\\\(\\\\frac{\\\\sqrt3}{2}\\\\)\", \"\\\\(\\\\frac{2\\\\sqrt2}{3}\\\\)\", \"\\\\(2\\\\sqrt{\\\\frac{2}{3}}\\\\)\"]",
+        "correct_option": 2,
+        "explanation": "সমীকরণ ⇒ \\(\\frac{(x-3)^2}{1/2}+\\frac{(y+2)^2}{1/3}=1\\)। এখানে \\(a^2=\\frac12, b^2=\\frac13\\)। লম্বের দৈর্ঘ্য \\(=\\frac{2b^2}{a}=\\frac{2\\sqrt2}{3}\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 37,
+        "draft_id": "1F33A38A",
+        "q_no": 10,
+        "question": "\\(\\displaystyle \\int_0^1\\frac{1-x}{1+x}dx\\) এর মান কত?",
+        "options": "[\"\\\\(-\\\\ln\\\\frac{4}{e}\\\\)\", \"\\\\(\\\\ln\\\\frac{4}{e}\\\\)\", \"\\\\(-\\\\ln(4e)\\\\)\", \"\\\\(\\\\ln(4e)\\\\)\"]",
+        "correct_option": 1,
+        "explanation": "\\(\\frac{1-x}{1+x}= \\frac{2}{1+x}-1\\)। সমাকলন ⇒ \\(2\\ln(1+x)-x\\Big|_0^1=\\ln\\frac{4}{e}\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 38,
+        "draft_id": "1F33A38A",
+        "q_no": 11,
+        "question": "অসমান \\(x,y\\) এর যে কোন একটির বর্গ অপরটির সমান হলে সম্পর্ক কী?",
+        "options": "[\"\\\\(x=y\\\\)\", \"\\\\(x=y+z\\\\)\", \"\\\\(x=-y+2\\\\)\", \"\\\\(x=-y-1\\\\)\"]",
+        "correct_option": 3,
+        "explanation": "\\(x^2=y\\) ও \\(y^2=x\\)। বিয়োগ করলে \\((x-y)(x+y)=y-x\\Rightarrow x+y=-1\\Rightarrow x=-y-1\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 39,
+        "draft_id": "1F33A38A",
+        "q_no": 12,
+        "question": "\\((4,3)\\) কেন্দ্রবিশিষ্ট বৃত্তে ব্যাসের এক প্রান্ত \\((3,1)\\) হলে অপর প্রান্তের স্থানাঙ্ক কত?",
+        "options": "[\"\\\\((4,0)\\\\)\", \"\\\\((4,-5)\\\\)\", \"\\\\((4,7)\\\\)\", \"\\\\((5,5)\\\\)\"]",
+        "correct_option": 3,
+        "explanation": "কেন্দ্র হলো ব্যাসের মধ্যবিন্দু ⇒ \\(\\frac{3+x}{2}=4,\\frac{1+y}{2}=3\\Rightarrow x=5,y=5\\)।",
+        "src": "text_manual"
+      },
+      {
+        "id": 40,
+        "draft_id": "1F33A38A",
+        "q_no": 13,
         "question": "\\(f(x)=\\frac{1}{\\sqrt{|2+x|}}\\) এর ডোমেইন কোনটি?",
         "options": "[\"\\\\((-\\\\infty,-2)\\\\cup(-2,\\\\infty)\\\\)\", \"\\\\((-\\\\infty,-2]\\\\cup[-2,\\\\infty)\\\\)\", \"\\\\((-\\\\infty,-2)\\\\cup[-2,\\\\infty)\\\\)\", \"\\\\((-\\\\infty,\\\\infty)\\\\)\"]",
         "correct_option": 0,
