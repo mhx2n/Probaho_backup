@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775296107,
+  "generated_at": 1775296123,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [
@@ -114,11 +114,11 @@
         "id": "2F53FC14",
         "owner_id": 8535385246,
         "title": "Hi I love you too baby",
-        "question_time": 10,
+        "question_time": 500,
         "negative_mark": 0.4,
         "status": "ready",
         "created_at": 1775021480,
-        "updated_at": 1775296102,
+        "updated_at": 1775296118,
         "show_title_prefix": 0,
         "html_export_theme": "auto"
       },
