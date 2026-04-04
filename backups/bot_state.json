@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775328444,
+  "generated_at": 1775328557,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -229,7 +229,17 @@
       }
     ],
     "group_bindings": [],
-    "user_visuals": [],
+    "user_visuals": [
+      {
+        "user_id": 8535385246,
+        "theme_name": "midnight",
+        "custom_theme": null,
+        "thumb_path": "/opt/render/project/src/data/thumbs/8535385246_full.jpg",
+        "thumb_preview_path": "/opt/render/project/src/data/thumbs/8535385246_preview.jpg",
+        "thumb_github_path": "assets/report-thumbs/8535385246.jpg",
+        "updated_at": 1775328552
+      }
+    ],
     "practice_links": [
       {
         "draft_id": "BEAA888C",
