@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775330616,
+  "generated_at": 1775330640,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -24,9 +24,9 @@
         "title": "New update 😲",
         "question_time": 45,
         "negative_mark": 0.256,
-        "status": "draft",
+        "status": "ready",
         "created_at": 1775330129,
-        "updated_at": 1775330129,
+        "updated_at": 1775330632,
         "show_title_prefix": 1,
         "html_export_theme": "auto"
       },
@@ -313,13 +313,23 @@
         "correct_option": 2,
         "explanation": "",
         "src": "forwarded_quiz"
+      },
+      {
+        "id": 55,
+        "draft_id": "FAB29AB4",
+        "q_no": 1,
+        "question": "What is the answer???",
+        "options": "[\"A\", \"B\", \"C\", \"D\"]",
+        "correct_option": 2,
+        "explanation": "",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
       {
         "user_id": 8535385246,
         "draft_id": "FAB29AB4",
-        "updated_at": 1775330611
+        "updated_at": 1775330635
       }
     ],
     "group_bindings": [],
@@ -358,6 +368,14 @@
         "created_by": 8535385246,
         "enabled": 1,
         "created_at": 1775330373
+      },
+      {
+        "draft_id": "FAB29AB4",
+        "token": "81BD23BF01B8E6AD",
+        "max_attempts": 0,
+        "created_by": 8535385246,
+        "enabled": 1,
+        "created_at": 1775330632
       }
     ],
     "practice_attempts": [
