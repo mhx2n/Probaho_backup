@@ -1,13 +1,32 @@
 {
   "version": 2,
-  "generated_at": 1775327694,
+  "generated_at": 1775327797,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
     "admin_chat_access": [],
-    "drafts": [],
+    "drafts": [
+      {
+        "id": "BEAA888C",
+        "owner_id": 8535385246,
+        "title": "New update ashse wait",
+        "question_time": 10,
+        "negative_mark": 0.25,
+        "status": "draft",
+        "created_at": 1775327792,
+        "updated_at": 1775327792,
+        "show_title_prefix": 1,
+        "html_export_theme": "auto"
+      }
+    ],
     "draft_questions": [],
-    "active_drafts": [],
+    "active_drafts": [
+      {
+        "user_id": 8535385246,
+        "draft_id": "BEAA888C",
+        "updated_at": 1775327792
+      }
+    ],
     "group_bindings": [],
     "user_visuals": [],
     "practice_links": [],
