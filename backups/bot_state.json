@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775329912,
+  "generated_at": 1775329924,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -9,12 +9,12 @@
       {
         "id": "1F33A38A",
         "owner_id": 8535385246,
-        "title": "GST EXAM 💕",
+        "title": "Mew mew 😅",
         "question_time": 67,
         "negative_mark": 0.245,
         "status": "ready",
         "created_at": 1775328850,
-        "updated_at": 1775329907,
+        "updated_at": 1775329919,
         "show_title_prefix": 0,
         "html_export_theme": "auto"
       }
