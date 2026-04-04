@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775330378,
+  "generated_at": 1775330580,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -38,7 +38,7 @@
         "negative_mark": 0.24,
         "status": "ready",
         "created_at": 1775330320,
-        "updated_at": 1775330365,
+        "updated_at": 1775330575,
         "show_title_prefix": 1,
         "html_export_theme": "auto"
       }
@@ -303,6 +303,16 @@
         "correct_option": 0,
         "explanation": "বর্গমূলের ভেতর শূন্য হতে পারবে না ⇒ \\(2+x\\neq0\\Rightarrow x\\neq-2\\)।",
         "src": "text_manual"
+      },
+      {
+        "id": 54,
+        "draft_id": "927D4A2A",
+        "q_no": 14,
+        "question": "What is the answer???",
+        "options": "[\"A\", \"B\", \"C\", \"D\"]",
+        "correct_option": 2,
+        "explanation": "",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
