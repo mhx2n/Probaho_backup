@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775951819,
+  "generated_at": 1775951843,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -64,6 +64,18 @@
         "created_at": 1775334541,
         "updated_at": 1775711668,
         "show_title_prefix": 0,
+        "html_export_theme": "auto"
+      },
+      {
+        "id": "1752FF7F",
+        "owner_id": 8535385246,
+        "title": "Sex korbe gopone",
+        "question_time": 10,
+        "negative_mark": 0.245,
+        "status": "draft",
+        "created_at": 1775951838,
+        "updated_at": 1775951838,
+        "show_title_prefix": 1,
         "html_export_theme": "auto"
       }
     ],
@@ -592,8 +604,8 @@
     "active_drafts": [
       {
         "user_id": 8535385246,
-        "draft_id": "1F33A38A",
-        "updated_at": 1775847082
+        "draft_id": "1752FF7F",
+        "updated_at": 1775951838
       }
     ],
     "group_bindings": [
