@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1775951986,
+  "generated_at": 1775952029,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -74,7 +74,7 @@
         "negative_mark": 0.245,
         "status": "ready",
         "created_at": 1775951838,
-        "updated_at": 1775951981,
+        "updated_at": 1775952024,
         "show_title_prefix": 0,
         "html_export_theme": "auto"
       }
@@ -769,6 +769,16 @@
         "correct_option": 0,
         "explanation": "বর্গমূলের ভেতর শূন্য হতে পারবে না ⇒ \\(2+x\\neq0\\Rightarrow x\\neq-2\\)।",
         "src": "csv:18"
+      },
+      {
+        "id": 255,
+        "draft_id": "1752FF7F",
+        "q_no": 18,
+        "question": "আর্টেমিস-২ মিশনের মহাকাশযানের নাম কি ???",
+        "options": "[\"ওরিয়ন\", \"ফ্যালকন\", \"সয়ুজ\", \"স্পেস শাটল\"]",
+        "correct_option": 0,
+        "explanation": "",
+        "src": "forwarded_quiz"
       }
     ],
     "active_drafts": [
