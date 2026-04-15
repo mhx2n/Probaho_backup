@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1776249726,
+  "generated_at": 1776250057,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -15,7 +15,8 @@
         "status": "ready",
         "created_at": 1775328850,
         "updated_at": 1775951814,
-        "show_title_prefix": 1
+        "show_title_prefix": 1,
+        "html_export_theme": "auto"
       },
       {
         "id": "FAB29AB4",
@@ -26,7 +27,8 @@
         "status": "ready",
         "created_at": 1775330129,
         "updated_at": 1775330632,
-        "show_title_prefix": 1
+        "show_title_prefix": 1,
+        "html_export_theme": "auto"
       },
       {
         "id": "927D4A2A",
@@ -37,7 +39,8 @@
         "status": "ready",
         "created_at": 1775330320,
         "updated_at": 1775825998,
-        "show_title_prefix": 1
+        "show_title_prefix": 1,
+        "html_export_theme": "auto"
       },
       {
         "id": "20501301",
@@ -48,7 +51,8 @@
         "status": "ready",
         "created_at": 1775334292,
         "updated_at": 1775712127,
-        "show_title_prefix": 1
+        "show_title_prefix": 1,
+        "html_export_theme": "auto"
       },
       {
         "id": "98B6CBD2",
@@ -59,7 +63,8 @@
         "status": "ready",
         "created_at": 1775334541,
         "updated_at": 1775711668,
-        "show_title_prefix": 1
+        "show_title_prefix": 1,
+        "html_export_theme": "auto"
       },
       {
         "id": "1752FF7F",
@@ -70,7 +75,8 @@
         "status": "ready",
         "created_at": 1775951838,
         "updated_at": 1775952247,
-        "show_title_prefix": 1
+        "show_title_prefix": 1,
+        "html_export_theme": "auto"
       }
     ],
     "draft_questions": [
