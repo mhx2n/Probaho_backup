@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": 1776260618,
+  "generated_at": 1776262206,
   "brand_name": "Target Exam Robot",
   "tables": {
     "bot_admins": [],
@@ -14,9 +14,7 @@
         "negative_mark": 0.1269699926,
         "status": "ready",
         "created_at": 1775328850,
-        "updated_at": 1775951814,
-        "show_title_prefix": 1,
-        "html_export_theme": "auto"
+        "updated_at": 1775951814
       },
       {
         "id": "FAB29AB4",
@@ -26,9 +24,7 @@
         "negative_mark": 0.256,
         "status": "ready",
         "created_at": 1775330129,
-        "updated_at": 1775330632,
-        "show_title_prefix": 1,
-        "html_export_theme": "auto"
+        "updated_at": 1775330632
       },
       {
         "id": "927D4A2A",
@@ -38,9 +34,7 @@
         "negative_mark": 0.24,
         "status": "ready",
         "created_at": 1775330320,
-        "updated_at": 1775825998,
-        "show_title_prefix": 1,
-        "html_export_theme": "auto"
+        "updated_at": 1775825998
       },
       {
         "id": "20501301",
@@ -50,9 +44,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1775334292,
-        "updated_at": 1776250520,
-        "show_title_prefix": 0,
-        "html_export_theme": "auto"
+        "updated_at": 1776250520
       },
       {
         "id": "98B6CBD2",
@@ -62,9 +54,7 @@
         "negative_mark": 0.25,
         "status": "ready",
         "created_at": 1775334541,
-        "updated_at": 1775711668,
-        "show_title_prefix": 1,
-        "html_export_theme": "auto"
+        "updated_at": 1775711668
       },
       {
         "id": "1752FF7F",
@@ -74,9 +64,7 @@
         "negative_mark": 0.245,
         "status": "ready",
         "created_at": 1775951838,
-        "updated_at": 1776250308,
-        "show_title_prefix": 0,
-        "html_export_theme": "auto"
+        "updated_at": 1776250308
       }
     ],
     "draft_questions": [
